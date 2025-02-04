@@ -8,9 +8,6 @@
 - Support for adding external subtitles  
 - Smooth and high-quality video playback
 
-## APK File :
-[Download](https://www.4shared.com/mobile/3eVudp3Cge/app-release.html)
-
 ## Images :
 
 <img src="https://github.com/user-attachments/assets/8f223ffd-e135-4258-90b0-bbbe3c68015b" alt="Streamify 1" width="200" />
