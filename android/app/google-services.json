@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897008008496",
+    "project_id": "streamify-firebase",
+    "storage_bucket": "streamify-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897008008496:android:658f5831ba99718b555cf5",
+        "android_client_info": {
+          "package_name": "com.example.streamify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoivERlqJkO8p4IK-PWrYtIwTv-fHSo9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
